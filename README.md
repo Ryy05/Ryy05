@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, React**
 
-- 💬 Ask me about **Python , Structured Query Language, AIML **
+- 💬 Ask me about **Python , Structured Query Language, AIML**
 
 - 📫 How to reach me **addressryan@gmail.com**
 
