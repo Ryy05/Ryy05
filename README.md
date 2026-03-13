@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ryyan Akhtar</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
-- 🔭 I’m currently working on **Netflix Clone**
+- 🔭 I’m currently working on **Transformer Architectures**
 
-- 🌱 I’m currently learning **Machine Learning, React**
+- 🌱 I’m currently learning **RAG**
 
 - 💬 Ask me about **Python , Structured Query Language, AIML**
 
